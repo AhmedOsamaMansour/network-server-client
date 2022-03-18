@@ -1,0 +1,2 @@
+Data Time :3/18/2022 8:44:27 PM
+Message :Could not find a part of the path 'C:\Users\Ahmed osama\Desktop\Project Network\Project\Template[2021-2022]\HTTPServer\bin\Debug\redirectionRule.txt'.

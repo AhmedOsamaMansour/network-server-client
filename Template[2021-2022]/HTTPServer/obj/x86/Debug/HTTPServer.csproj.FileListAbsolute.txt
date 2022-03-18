@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Ahmed osama\Desktop\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed osama\Desktop\Project Network\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Ahmed osama\Desktop\Project Network\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Ahmed osama\Desktop\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Ahmed osama\Desktop\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Ahmed osama\Desktop\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+F:\c\Project Network\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+F:\c\Project Network\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+F:\c\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+F:\c\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+F:\c\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+F:\c\Project Network\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
